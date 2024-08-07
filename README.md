@@ -1,8 +1,17 @@
 # gabc-collection
 
-This is a repo to collect gregorio gabc/tex file, most are Vesperas et Completorium.
-For the chant group practicing of Yangjingbang St. Joseph CC in SH.
-Also Gongjingdiao scores sorted by GRE, a kind of Chinese prayer tone.
+This repository serves to collect Gregorio gabc TeX files, primarily encompassing Vespers and Complines. It is dedicated to the rehearsal of the Schola Cantorum Saxi of St. Joseph’s Church in Yang-King-Pang in the city of Shanghai.
+In addition, it includes classical Chinese prayers chanted in the Shanghainese language, following a melody rooted in the traditional practices of Chinese scholars reciting Confucian scriptures, sometimes referred to as Gong-Jing-Diao (the worship tune). The scores of these prayers are sorted by GRE.
 
-Dedicated to Our Lady of Sheshan
-2024-1-31 SH
+Gregory Wen,
+on the 31st day of January,
+in the Year of Our Lord 2024,
+the Feast of St. John Bosco. 
+
+Sharing in the dedication of Don Bosco, 
+I humbly entrust this project to
+Our Lady, Help of Christians,
+who radiates her brilliance
+from the summit of the Hill of Zo-Se of Shanghai
+Auxilium Christianorum, Sedes Sapientiae, 
+Ora pro nobis.
